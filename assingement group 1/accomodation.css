@@ -1,0 +1,33 @@
+nav{
+
+width:400px;
+ background-color:#000;
+height: 100px;
+margin top:90px;
+position: relative;right: -55px;
+position:sticky;
+
+}
+.navbar{
+
+font-size: 30px;
+line-height: 45px;
+font-weight: 700px;
+text-transform: lowercase;
+font-family: 'Acme', sans-serif; 
+}
+.navbar h1{
+position: relative;left: 50px;
+}
+
+
+}
+.slider{
+position: fixed;
+  right: 0;
+  top:10%;
+  min-width: 20px; 
+max-height: 90px;
+  bottom: 69px;
+object-fit: cover;
+}
